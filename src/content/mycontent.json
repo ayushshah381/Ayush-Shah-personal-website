@@ -1,14 +1,14 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Ayush Shah | Personal Webpage",
+	"Name": "Ayush Shah",
 	"Description": [
 		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.imgur.com/pe7DCsW.jpg",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://i.imgur.com/Qf67M3w.jpg",
 	"AboutContent": [
 		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
@@ -55,14 +55,11 @@
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1yhfRELr2NYqAjbajnWGX0SfFmoK3r7d7/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1o0qkcXdSDe4MYBE-49xWuhft6O2UPqV-/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:shah.ayush100@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/ayush-shah-a6a133171",
+	"facebook": "https://www.facebook.com/ayush.shah.7355",
+	"github": "https://github.com/ayushshah381",
+	"instagram": "http://www.adityaketkar.me"
 }
